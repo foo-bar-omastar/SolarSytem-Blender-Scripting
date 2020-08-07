@@ -15,7 +15,4 @@ The python script adds keyframes to Blender for the corresponding positions of t
 
 The camera animation is added manually and rendered in a way where the camera is locked on to the sun.
 
-## Output Video: Click on Image Thumbnail
-
-[<img src="https://img.youtube.com/vi/PxX3_PVr2cg/maxresdefault.jpg" width="50%">](https://youtu.be/PxX3_PVr2cg)
-
+## Output Video: https://www.youtube.com/watch?v=PxX3_PVr2cg
