@@ -81,8 +81,10 @@ for x0, x1, v0, v1 in zip(x_out[:-1],x_out[1:],v_out[:-1],v_out[1:]):
     x1[:,:] = x0 + h*v0
     v1[:,:] = v0 + h*acc(x1)
 
+
 # -------------------------
-# Add the Blender code here
+# Adding the Blender code below
+# -------------------------
 
 obj_Sun = bpy.data.objects['Sun']
 obj_Jupiter = bpy.data.objects['Jupiter']
